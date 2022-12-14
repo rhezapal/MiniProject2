@@ -38,8 +38,7 @@ melakukan merge, dan agregasi kembali untuk mendapatkan ratio reservasi yang can
 3. Melakukan agregasi, dengan menambahkan jumlah hari stay weekeend + weekday
 4. Melakukan gruping berdasarkan bulan, dari masing-masing jenis hotel. didapatkan rata-rata jumlah hari.
 - Grafik :
-<img width="703" alt="image" src="https://user-images.githubusercontent.com/114345988/207614483-1584f615-5893-4434-8cf4-a088ec64e5a2.png">
-<img width="352" alt="image" src="https://user-images.githubusercontent.com/114345988/207614622-57a841b2-753b-473b-9fda-8e61bea75e09.png">
+<img width="1088" alt="image" src="https://user-images.githubusercontent.com/114345988/207614483-1584f615-5893-4434-8cf4-a088ec64e5a2.png">
 
 - Intrepretasi :
 1. Berdasarkan durasi lama menginap : Pada jenis Resort Hotel, pengunjung menginap paling lama 5-6 hari pada bulan Agustus. Durasi tersebut paling lama di antara bulan lainnya. Hal ini berkaitan dengan libur sekolahan,
