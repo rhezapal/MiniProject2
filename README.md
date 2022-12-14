@@ -26,7 +26,7 @@ Rakamin Academy
 ### 2. Data Visualization Monthly Hotel Booking Analysis Based on Hotel Type
 - Hal yang dilakukan : dilakukan pengelompokan jumlah booking berdasarkan bulan dan tahun dari masing-masing jenis hotel, khusus tahun kita hitung unique, Pada bulan September dan Oktober, jumlah tahun ada 3 , sehingga kita normalisasi. Kita hitung jumlah rata-rata booking per bulan. Untuk Visualisasi : nama bulan kita ambil 3 karakter dari depan dengan teknik slicing, kemudian divisualisasikan.
 - Berikut Grafik Rata-rata Booking Hotel berdasarkan Jenis hotel
-<img width="978" alt="image" src="https://user-images.githubusercontent.com/114345988/207613740-5fd11f04-f439-4e5c-b002-58b674d0561b.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/114345988/207613740-5fd11f04-f439-4e5c-b002-58b674d0561b.png">
 
 - Intrepretasi : Kedua jenis hotel mengalami peningkatan jumlah booking pada periode Juni-Juli dan Periode Desember. Peningkatan jumlah booking pada periode Juni-Juli berkaitan dengan liburan semesteran anak sekolah, sedangkan Periode Desember berkaitan dengan liburan natal dan tahun baru.
 
@@ -38,7 +38,7 @@ melakukan merge, dan agregasi kembali untuk mendapatkan ratio reservasi yang can
 3. Melakukan agregasi, dengan menambahkan jumlah hari stay weekeend + weekday
 4. Melakukan gruping berdasarkan bulan, dari masing-masing jenis hotel. didapatkan rata-rata jumlah hari.
 - Grafik :
-<img width="1088" alt="image" src="https://user-images.githubusercontent.com/114345988/207614483-1584f615-5893-4434-8cf4-a088ec64e5a2.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/114345988/207614483-1584f615-5893-4434-8cf4-a088ec64e5a2.png">
 
 - Intrepretasi :
 1. Berdasarkan durasi lama menginap : Pada jenis Resort Hotel, pengunjung menginap paling lama 5-6 hari pada bulan Agustus. Durasi tersebut paling lama di antara bulan lainnya. Hal ini berkaitan dengan libur sekolahan,
@@ -52,7 +52,7 @@ melakukan merge, dan agregasi kembali untuk mendapatkan ratio reservasi yang can
 2. menghitung jumlah reservasi cancel dan seluruhnya per kategori, dan dari masing-masing jenis hotel
 3. membuat visualisasi
 - Grafik :
-<img width="978" alt="image" src="https://user-images.githubusercontent.com/114345988/207614269-390044b9-ba4e-4ae7-855b-b35e2e2ab460.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/114345988/207614269-390044b9-ba4e-4ae7-855b-b35e2e2ab460.png">
 
 - Interpretasi:
 1. Dari masing-masing kategori lead time, semakin lama lead time nya semakin tinggi pula ratio cancelnya. Hal ini berlaku untuk kedua jenis hotel.
