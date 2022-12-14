@@ -14,6 +14,7 @@ Rakamin Academy
 4. Impact Analysis of Lead Time on Hotel Bookings Cancellation Rate
 
 ### 1. Data Exploratory Analysis and Data Preprocessing
+- Data set : hotel_bookings_data.csv
 - Hal yang dilakukan : 
 1. Handling Null Value :
 2. Children : diisi modus
